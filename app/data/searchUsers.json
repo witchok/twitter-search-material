@@ -1,0 +1,670 @@
+[
+	{
+		"id": 141664648,
+		"id_str": "141664648",
+		"name": "John Cena",
+		"screen_name": "JohnCena",
+		"location": "West Newbury, MA",
+		"description": "Welcome to my Twitter. A forum that discusses everything from catacombs to Waldorf salad. Enjoy! #RiseAboveHate #NeverGiveUp",
+		"url": "https://t.co/p1u0EwMWyB",
+		"entities": {
+			"url": {
+				"urls": [
+					{
+						"url": "https://t.co/p1u0EwMWyB",
+						"expanded_url": "http://Instagram.com/johncena",
+						"display_url": "Instagram.com/johncena",
+						"indices": [
+							0,
+							23
+						]
+					}
+				]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 11259981,
+		"friends_count": 2496,
+		"listed_count": 33221,
+		"created_at": "Sat May 08 17:43:50 +0000 2010",
+		"favourites_count": 6,
+		"utc_offset": -14400,
+		"time_zone": "Eastern Time (US & Canada)",
+		"geo_enabled": false,
+		"verified": true,
+		"statuses_count": 5684,
+		"lang": "en",
+		"status": {
+			"created_at": "Tue Apr 03 13:33:53 +0000 2018",
+			"id": 981162875132588000,
+			"id_str": "981162875132588036",
+			"text": "RT @WWE: This #WorldWishDay, join @JohnCena and @MakeAWish to help make every life-changing wish come true! To get involved visit https://t…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WorldWishDay",
+						"indices": [
+							14,
+							27
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WWE",
+						"name": "WWE",
+						"id": 7517222,
+						"id_str": "7517222",
+						"indices": [
+							3,
+							7
+						]
+					},
+					{
+						"screen_name": "JohnCena",
+						"name": "John Cena",
+						"id": 141664648,
+						"id_str": "141664648",
+						"indices": [
+							34,
+							43
+						]
+					},
+					{
+						"screen_name": "MakeAWish",
+						"name": "Make-A-Wish America",
+						"id": 61903300,
+						"id_str": "61903300",
+						"indices": [
+							48,
+							58
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Mon Apr 02 19:47:24 +0000 2018",
+				"id": 980894488502685700,
+				"id_str": "980894488502685696",
+				"text": "This #WorldWishDay, join @JohnCena and @MakeAWish to help make every life-changing wish come true! To get involved… https://t.co/13WzXwLvMK",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "WorldWishDay",
+							"indices": [
+								5,
+								18
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "JohnCena",
+							"name": "John Cena",
+							"id": 141664648,
+							"id_str": "141664648",
+							"indices": [
+								25,
+								34
+							]
+						},
+						{
+							"screen_name": "MakeAWish",
+							"name": "Make-A-Wish America",
+							"id": 61903300,
+							"id_str": "61903300",
+							"indices": [
+								39,
+								49
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/13WzXwLvMK",
+							"expanded_url": "https://twitter.com/i/web/status/980894488502685696",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://www.spredfast.com\" rel=\"nofollow\">Spredfast app</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 317,
+				"favorite_count": 1405,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 317,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": true,
+		"profile_background_color": "000000",
+		"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/722971585/1b563075c6f6e8a8c19c95d0c45a453a.jpeg",
+		"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/722971585/1b563075c6f6e8a8c19c95d0c45a453a.jpeg",
+		"profile_background_tile": false,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/877958014736756736/3Fba7ZkZ_normal.jpg",
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/877958014736756736/3Fba7ZkZ_normal.jpg",
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/141664648/1518205241",
+		"profile_link_color": "0A1169",
+		"profile_sidebar_border_color": "FFFFFF",
+		"profile_sidebar_fill_color": "F7D7D7",
+		"profile_text_color": "333333",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false,
+		"translator_type": "none"
+	},
+	{
+		"id": 722062652,
+		"id_str": "722062652",
+		"name": "John Cena™",
+		"screen_name": "JohnCenaWeb",
+		"location": "|| India ||",
+		"description": "WELCOME To The © Official Twitter Of John Cena Web® | Follow Me for Latest News,Photos and much more about @JohnCena  | @JohnCena Followed On ●03/01/2014●",
+		"url": "https://t.co/tTNyjSam6r",
+		"entities": {
+			"url": {
+				"urls": [
+					{
+						"url": "https://t.co/tTNyjSam6r",
+						"expanded_url": "https://www.twitter.com/JohnCenaWeb",
+						"display_url": "twitter.com/JohnCenaWeb",
+						"indices": [
+							0,
+							23
+						]
+					}
+				]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 78623,
+		"friends_count": 1,
+		"listed_count": 47,
+		"created_at": "Sat Jul 28 12:11:16 +0000 2012",
+		"favourites_count": 1,
+		"utc_offset": 19800,
+		"time_zone": "Chennai",
+		"geo_enabled": true,
+		"verified": false,
+		"statuses_count": 2109,
+		"lang": "en",
+		"status": {
+			"created_at": "Thu Sep 29 09:55:30 +0000 2016",
+			"id": 781432203737722900,
+			"id_str": "781432203737722882",
+			"text": "RT @JohnCena: If you think you're at the \"top\", look towards the sky and find a way to keep climbing! #LearnEveryday #EarnEveryday #NeverGi…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LearnEveryday",
+						"indices": [
+							102,
+							116
+						]
+					},
+					{
+						"text": "EarnEveryday",
+						"indices": [
+							117,
+							130
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JohnCena",
+						"name": "John Cena",
+						"id": 141664648,
+						"id_str": "141664648",
+						"indices": [
+							3,
+							12
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Wed Sep 28 15:27:44 +0000 2016",
+				"id": 781153425375563800,
+				"id_str": "781153425375563776",
+				"text": "If you think you're at the \"top\", look towards the sky and find a way to keep climbing! #LearnEveryday #EarnEveryday #NeverGiveUp",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "LearnEveryday",
+							"indices": [
+								88,
+								102
+							]
+						},
+						{
+							"text": "EarnEveryday",
+							"indices": [
+								103,
+								116
+							]
+						},
+						{
+							"text": "NeverGiveUp",
+							"indices": [
+								117,
+								129
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1100,
+				"favorite_count": 3220,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 1100,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "030303",
+		"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000159563851/Ds35MpS7.jpeg",
+		"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000159563851/Ds35MpS7.jpeg",
+		"profile_background_tile": false,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/752750106458324993/tp8CnGiz_normal.jpg",
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/752750106458324993/tp8CnGiz_normal.jpg",
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/722062652/1469944887",
+		"profile_link_color": "372B61",
+		"profile_sidebar_border_color": "FFFFFF",
+		"profile_sidebar_fill_color": "DDEEF6",
+		"profile_text_color": "333333",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false,
+		"translator_type": "regular"
+	},
+	{
+		"id": 191299662,
+		"id_str": "191299662",
+		"name": "John Cena #1 fan",
+		"screen_name": "iJason",
+		"location": "Cenation",
+		"description": "Huge @JohnCena fan. Rise above hate and never give up! He is an inspiration. Let's go CENA! Followed by the Champ, John Cena. HUSTLE. LOYALTY. RESPECT.",
+		"url": "http://t.co/XEdIlxRbum",
+		"entities": {
+			"url": {
+				"urls": [
+					{
+						"url": "http://t.co/XEdIlxRbum",
+						"expanded_url": "http://www.facebook.com/JohnCena",
+						"display_url": "facebook.com/JohnCena",
+						"indices": [
+							0,
+							22
+						]
+					}
+				]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 164154,
+		"friends_count": 99412,
+		"listed_count": 561,
+		"created_at": "Thu Sep 16 02:57:00 +0000 2010",
+		"favourites_count": 754,
+		"utc_offset": 10800,
+		"time_zone": "Moscow",
+		"geo_enabled": false,
+		"verified": false,
+		"statuses_count": 5136,
+		"lang": "en",
+		"status": {
+			"created_at": "Mon Apr 02 17:57:51 +0000 2018",
+			"id": 980866918423806000,
+			"id_str": "980866918423805953",
+			"text": "RT @Schwarzenegger: It’s true: I’m back! I went to sleep expecting to wake up with a small incision and woke up with a big one - but guess…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Schwarzenegger",
+						"name": "Arnold",
+						"id": 12044602,
+						"id_str": "12044602",
+						"indices": [
+							3,
+							18
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Mon Apr 02 17:43:11 +0000 2018",
+				"id": 980863228870672400,
+				"id_str": "980863228870672384",
+				"text": "It’s true: I’m back! I went to sleep expecting to wake up with a small incision and woke up with a big one - but gu… https://t.co/60TNM8pdL1",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/60TNM8pdL1",
+							"expanded_url": "https://twitter.com/i/web/status/980863228870672384",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 9273,
+				"favorite_count": 80210,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 9273,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "FFFFFF",
+		"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/659785026/04qj2191aojbhmnf6hf3.jpeg",
+		"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/659785026/04qj2191aojbhmnf6hf3.jpeg",
+		"profile_background_tile": true,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/441319358493519873/RbQGbaSv_normal.jpeg",
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/441319358493519873/RbQGbaSv_normal.jpeg",
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/191299662/1360985409",
+		"profile_link_color": "4138EB",
+		"profile_sidebar_border_color": "FFFFFF",
+		"profile_sidebar_fill_color": "DBBE48",
+		"profile_text_color": "DB2315",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false,
+		"translator_type": "none"
+	},
+	{
+		"id": 2340943854,
+		"id_str": "2340943854",
+		"name": "John Cena Sr.",
+		"screen_name": "OfficialCenaSr",
+		"location": "",
+		"description": "Official Twitter of John Cena Sr. (only form of social media - others are fakes) ~ Boston, MA - jfab@fabulousproductions.com",
+		"url": null,
+		"entities": {
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 14953,
+		"friends_count": 335,
+		"listed_count": 24,
+		"created_at": "Wed Feb 12 21:17:10 +0000 2014",
+		"favourites_count": 2,
+		"utc_offset": -14400,
+		"time_zone": "Eastern Time (US & Canada)",
+		"geo_enabled": false,
+		"verified": false,
+		"statuses_count": 145,
+		"lang": "en",
+		"status": {
+			"created_at": "Tue Mar 27 13:01:39 +0000 2018",
+			"id": 978618049619222500,
+			"id_str": "978618049619222528",
+			"text": "March 31st, Kowloon Saugus, MA. The Million Dollar Man  Ted DiBiase. 4-8 pm. A great time for great food and a chan… https://t.co/EqIXN5JpX6",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EqIXN5JpX6",
+						"expanded_url": "https://twitter.com/i/web/status/978618049619222528",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 39,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "C0DEED",
+		"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile": false,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/433740225550905344/92e9j23o_normal.jpeg",
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/433740225550905344/92e9j23o_normal.jpeg",
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/2340943854/1392255189",
+		"profile_link_color": "1DA1F2",
+		"profile_sidebar_border_color": "C0DEED",
+		"profile_sidebar_fill_color": "DDEEF6",
+		"profile_text_color": "333333",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": true,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false,
+		"translator_type": "none"
+	},
+	{
+		"id": 40834863,
+		"id_str": "40834863",
+		"name": "John Cena",
+		"screen_name": "JohnCenaOFC",
+		"location": "Massatuchettes. ",
+		"description": "This is a fan club created for John Cena Fans. Enjoy and follow please.",
+		"url": null,
+		"entities": {
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 124183,
+		"friends_count": 0,
+		"listed_count": 488,
+		"created_at": "Mon May 18 07:51:38 +0000 2009",
+		"favourites_count": 0,
+		"utc_offset": null,
+		"time_zone": null,
+		"geo_enabled": false,
+		"verified": false,
+		"statuses_count": 3,
+		"lang": "en",
+		"status": {
+			"created_at": "Mon May 18 08:40:41 +0000 2009",
+			"id": 1834113106,
+			"id_str": "1834113106",
+			"text": "If you support John Cena or the Wwe join this page please.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 256,
+			"favorite_count": 623,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "9AE4E8",
+		"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/13380184/John-Cena-HLR-Academy-Wallpaper-1920x1200.jpg",
+		"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/13380184/John-Cena-HLR-Academy-Wallpaper-1920x1200.jpg",
+		"profile_background_tile": false,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/216999316/john-cena1_normal.jpg",
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/216999316/john-cena1_normal.jpg",
+		"profile_link_color": "0084B4",
+		"profile_sidebar_border_color": "BDDCAD",
+		"profile_sidebar_fill_color": "DDFFCC",
+		"profile_text_color": "333333",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false,
+		"translator_type": "none"
+	}
+]

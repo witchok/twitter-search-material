@@ -1,0 +1,79 @@
+<!-- NOTE: @see ngClick for how to pass data selection to outside expression -->
+
+<md-toolbar layout="row" class="md-toolbar-tools" >
+  <md-menu>
+    <md-button class="menu md-icon-button"
+                ng-click="$mdMenu.open($event)">
+      <md-icon md-svg-icon="menu"  aria-label="menu"></md-icon>
+    </md-button>
+    <md-menu-content> 
+        <md-menu-item layout="column" class="twits-sort">
+             <md-button ng-click="$ctrl.saveUsers()" aria-label="Save">
+               Save
+             </md-button>
+             <md-button ng-click="$ctrl.showSavedUsers()" aria-label="Show">
+               Show saved
+             </md-button>
+             <md-button ng-click="$ctrl.deleteSavedUsers()" aria-label="Delete">
+               Delete
+             </md-button>
+        </md-menu-item>
+    </md-menu-content>
+  </md-menu>
+  <md-button class="md-icon-button"
+             aria-label="Show User List" ng-click="$ctrl.deleteUsers()">
+    <md-icon md-svg-icon="delete"  aria-label="delete"></md-icon>
+  </md-button>
+  <md-button class="md-icon-button"
+             aria-label="invate users" ng-click="$ctrl.makeMessage($event)">
+    <md-icon md-svg-icon="twitterInvate"></md-icon>
+  </md-button>
+  <md-checkbox aria-label="Check User" ng-model="$ctrl.mainCheckValue" class="md-primary right" ng-change="$ctrl.checkBoxMain()">All</md-checkbox>
+  <h1></h1>
+  <md-menu>
+    <md-button class="md-icon-button"
+               aria-label="sort" ng-click="$mdMenu.open($event)">
+      <md-icon md-svg-icon="sort"></md-icon>
+    </md-button>
+    <md-menu-content> 
+        <md-menu-item layout="column" class="twits-sort">
+             <md-button ng-click="$ctrl.sortUsersByName()" aria-label="By author">
+               By name
+             </md-button>
+             <md-button ng-click="$ctrl.sortUsersByFollowersCount()" aria-label="By date">
+               By followers
+             </md-button>
+        </md-menu-item>
+    </md-menu-content>
+  </md-menu>
+  <md-switch ng-model="$ctrl.switchPosition" aria-label="Switch 1" ng-true-value="'normal'" ng-false-value="'reversed'" ng-change="$ctrl.changeSwitch()">
+      Order : {{$ctrl.switchPosition}}
+  </md-switch>
+</md-toolbar>
+<form name="usersSearchForm">
+  <md-chips ng-model="$ctrl.chipsRequest" name="userSearch" readonly="$ctrl.readonly"
+            md-removable="$ctrl.removable" md-max-chips="10" placeholder="User search...">
+    <md-chip-template>
+      {{$chip}}
+    </md-chip-template>
+  </md-chips>
+  <md-button ng-click='$ctrl.getUsers($event)'>Search</md-button>
+</form>
+
+<md-list>
+  <md-list-item  ng-repeat="user in $ctrl.users" class="md-hue-3">
+    <md-button ng-click="$ctrl.showDetails({user:user})" ng-class="{'selected' : user === $ctrl.selected}">
+      <img ng-src="{{user.profile_image_url}}" class="avatar" alt="{{user.name}}" />
+      {{user.name}}
+    </md-button>
+    <md-checkbox aria-label="Check User" ng-model="user.checked" class="md-primary right" ng-change="$ctrl.checkBoxChanged()"></md-checkbox>
+    <div>
+      <a ng-href="{{'https://twitter.com/' + user.screen_name}}" target="_blank">
+        <md-icon md-svg-icon="twitter" aria-label="twitter url">
+        </md-icon>
+      </a>
+    </div>
+    <md-icon md-svg-icon="email"  aria-label="Send Email" class="md-secondary md-hue-3" ng-click="$ctrl.testForMessage()"></md-icon>
+  </md-list-item>
+</md-list>
+  

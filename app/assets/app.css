@@ -1,0 +1,222 @@
+[ng-cloak] {
+  display: none;
+}
+
+#top-content{
+  position: fixed;
+  align-self: center;
+  top: 0;
+  bottom: 0;
+  
+  height: 500px;
+  width: 60%;
+}
+/* 
+.md-whiteframe-1dp{
+  position: fixed;
+  width: 200px;
+  height: 100px;
+} */
+
+html, body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+/* Toolbar area */
+
+.menu {
+  background-color: transparent;
+  border: none;
+  height: 38px;
+  margin: 16px;
+  width: 36px;
+
+}
+
+.twit-text{
+  font-size: 12px;
+  padding: 0px;
+  margin: 0px;
+}
+
+.twit-user{
+  font-size: 12px;
+  padding: 0px;
+  margin: 0px;
+}
+.twit-time{
+  font-size: 10px;
+  padding: 0px;
+  margin: 0px;
+}
+
+.twits-sort{
+  height: 100px;
+}
+
+.md-toolbar-tools .md-button{
+  padding-top: 0;
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 0;
+  margin:0;
+}
+
+md-toolbar .md-menu{
+  margin: 0px;
+}
+
+md-menu-item .md-button{
+  font-size:      12px;
+  padding-right:  10px;
+  padding-left:   10px;
+
+}
+
+.md-toolbar-tools{
+  font-size: 14px;
+  width: 100%;
+  min-height: 20px;
+  height: 40px;
+  max-height: 50px;
+}
+
+.md-button{
+  line-height: 14px;
+}
+
+md-toolbar h1 {
+  margin: auto;
+}
+
+/* Sidenav area */
+
+md-list .md-button {
+  color: inherit;
+  font-weight: 500;
+  text-align: left;
+  width: 100%;
+  font-size: x-small;
+}
+
+md-list .md-button.selected {
+  color: #03a9f4;
+}
+
+.md-list-itme-inner{
+  padding-right: 0px;
+}
+/* Primary content area */
+
+#contentUsers
+{
+  /*position: fixed;
+  top: 0;
+  bottom: 0;
+  left:0%;
+  right: 50%;
+  
+  height: 70%;
+  width: 30%; */
+  padding: 10px
+}
+
+#content {
+  overflow: hidden;
+  padding: 10px;
+}
+
+
+
+#content md-icon.avatar {
+  margin-top: 10px;
+  width: 14%;
+  height: 14%;
+}
+
+
+md-button.menuBtn > md-icon {
+  fill: white;
+  width: 24px;
+  height: 24px;
+}
+
+
+#content img {
+  display: block;
+  height: auto;
+  max-width: 500px;
+}
+
+#content {
+  overflow: auto;
+}
+
+/* Utils */
+
+.content-wrapper {
+  position: relative;
+}
+
+
+.containerChipsToolbar{
+  padding: 0px;
+  margin: 0px;
+
+
+}
+/* Typography support coming in 0.8.0 */
+
+md-toolbar h1 {
+  font-size: 1.250em;
+  font-weight: 400;
+}
+
+.avatar {
+  position: relative;
+  width: 128px;
+  height: 128px;
+  border: 1px solid #ddd;
+  border-radius: 50%;
+  display: inline-block;
+  overflow: hidden;
+  margin: 0px;
+  vertical-align: middle;
+  zoom: 0.70;
+  transform: translateZ(0);
+  -webkit-transform: scale(0.70);
+  -moz-transform: scale(0.70);
+}
+
+span.name {
+  font-weight: bold;
+  font-size: 1.1em;
+  padding-left: 5px;
+}
+
+
+md-list-item{
+  padding-top: 10px;
+}
+
+
+.chipsdemoValidation .md-chips-messages {
+  color: #dd2c00;
+  position: relative;
+  order: 4;
+  overflow: hidden; }
+
+.chipsdemoValidation .md-chips-messages [ng-message] {
+  font-size: 12px;
+  line-height: 14px;
+  overflow: hidden;
+  margin-top: 0;
+  padding-top: 5px; }
+
+.chipsdemoValidation p.note {
+  font-size: 12px; 
+}

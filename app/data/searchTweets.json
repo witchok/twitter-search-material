@@ -1,0 +1,1728 @@
+{
+	"statuses": [
+		{
+			"created_at": "Mon Apr 02 17:18:06 +0000 2018",
+			"id": 980856914354438100,
+			"id_str": "980856914354438145",
+			"text": "The White House Correspondents' Association is pleased to announce that Maggie Haberman of The New York Times is th… https://t.co/3OXyiFrDuH",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3OXyiFrDuH",
+						"expanded_url": "https://twitter.com/i/web/status/980856914354438145",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"metadata": {
+				"result_type": "popular",
+				"iso_language_code": "en"
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19867003,
+				"id_str": "19867003",
+				"name": "WHCA",
+				"screen_name": "whca",
+				"location": "Washington, DC",
+				"description": "The White House Correspondents' Association  represents the White House press corps in its dealings with the administration on coverage-related issues.",
+				"url": "http://t.co/vDnPRPNG0s",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/vDnPRPNG0s",
+								"expanded_url": "http://www.whca.net",
+								"display_url": "whca.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14113,
+				"friends_count": 318,
+				"listed_count": 313,
+				"created_at": "Sun Feb 01 17:27:32 +0000 2009",
+				"favourites_count": 254,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 5567,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/47386730/millstwit.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/47386730/millstwit.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2153912210/twitpic_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2153912210/twitpic_normal.jpg",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1111,
+			"favorite_count": 8995,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Mon Apr 02 06:19:16 +0000 2018",
+			"id": 980691113739776000,
+			"id_str": "980691113739776000",
+			"text": "The New York Times is at the heart of a Western media apparatus that has given Israel the green light to kill with… https://t.co/3pPSoReXpY",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3pPSoReXpY",
+						"expanded_url": "https://twitter.com/i/web/status/980691113739776000",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"metadata": {
+				"result_type": "popular",
+				"iso_language_code": "en"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 53789862,
+				"id_str": "53789862",
+				"name": "Max Blumenthal",
+				"screen_name": "MaxBlumenthal",
+				"location": "",
+				"description": "Senior Editor, the @GrayzoneProject, @therealnews, Co-host of Moderate Rebels, @moderateradio",
+				"url": "https://t.co/vjaYjk2sCk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vjaYjk2sCk",
+								"expanded_url": "http://maxblumenthal.com",
+								"display_url": "maxblumenthal.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 107355,
+				"friends_count": 2623,
+				"listed_count": 2921,
+				"created_at": "Sat Jul 04 23:42:45 +0000 2009",
+				"favourites_count": 17059,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 66549,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/558836308756291585/03c1spXC.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/558836308756291585/03c1spXC.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/813889164156534788/_Mgx0fNt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/813889164156534788/_Mgx0fNt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/53789862/1515972082",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 382,
+			"favorite_count": 452,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Mon Apr 02 21:04:01 +0000 2018",
+			"id": 980913769445544000,
+			"id_str": "980913769445543936",
+			"text": "Report: “Killing the Deep State” Banned by New York Times Bestseller List\n - https://t.co/V05ZGTfaEi  #KillingTheDeepState #USA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KillingTheDeepState",
+						"indices": [
+							102,
+							122
+						]
+					},
+					{
+						"text": "USA",
+						"indices": [
+							123,
+							127
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/V05ZGTfaEi",
+						"expanded_url": "https://www.infowars.com/report-killing-the-deep-state-banned-by-new-york-times-bestseller-list/",
+						"display_url": "infowars.com/report-killing…",
+						"indices": [
+							77,
+							100
+						]
+					}
+				]
+			},
+			"metadata": {
+				"result_type": "popular",
+				"iso_language_code": "en"
+			},
+			"source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 109065990,
+				"id_str": "109065990",
+				"name": "Alex Jones",
+				"screen_name": "RealAlexJones",
+				"location": "Austin, TX",
+				"description": "Fighting for Freedom & Liberty on the Frontlines of Truth Journalism #Infowars TUNE IN 24/7 at https://t.co/baDL0SvCMt",
+				"url": "https://t.co/2wL2hEpCgI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2wL2hEpCgI",
+								"expanded_url": "http://www.infowars.com",
+								"display_url": "infowars.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/baDL0SvCMt",
+								"expanded_url": "http://Infowars.com/show",
+								"display_url": "Infowars.com/show",
+								"indices": [
+									95,
+									118
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 805164,
+				"friends_count": 535,
+				"listed_count": 8135,
+				"created_at": "Wed Jan 27 21:42:26 +0000 2010",
+				"favourites_count": 13011,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 43871,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000003674622/3a1203ea770c858037f4be19cbde4cc4.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000003674622/3a1203ea770c858037f4be19cbde4cc4.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/798632247762948096/ycGYVWvr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/798632247762948096/ycGYVWvr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/109065990/1401399918",
+				"profile_link_color": "030B66",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 215,
+			"favorite_count": 272,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Apr 03 11:53:44 +0000 2018",
+			"id": 981137672814121000,
+			"id_str": "981137672814120960",
+			"text": "My take @nytimes this morning - Opinion | For Russia, Trump Was a Vehicle, Not a Target - The New York Times https://t.co/0ksGzhkg9M",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nytimes",
+						"name": "The New York Times",
+						"id": 807095,
+						"id_str": "807095",
+						"indices": [
+							8,
+							16
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/0ksGzhkg9M",
+						"expanded_url": "https://www.nytimes.com/2018/04/03/opinion/trump-russia-mueller-election.html?action=click&pgtype=Homepage&clickSource=story-heading&module=opinion-c-col-left-region&region=opinion-c-col-left-region&WT.nav=opinion-c-col-left-region",
+						"display_url": "nytimes.com/2018/04/03/opi…",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"metadata": {
+				"result_type": "popular",
+				"iso_language_code": "en"
+			},
+			"source": "<a href=\"http://www.apple.com/\" rel=\"nofollow\">OS X</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 187289134,
+				"id_str": "187289134",
+				"name": "Clint Watts",
+				"screen_name": "selectedwisdom",
+				"location": "New York",
+				"description": "Author: Messing With The Enemy Current: @MSNBC, @FPRI & @gwcchs Former: @USArmy, @FBI, @CTCWP https://t.co/IZ13epc3XD",
+				"url": "https://t.co/Bi3F0w3PfP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Bi3F0w3PfP",
+								"expanded_url": "http://www.fpri.org/contributor/clint-watts/",
+								"display_url": "fpri.org/contributor/cl…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/IZ13epc3XD",
+								"expanded_url": "https://www.harpercollins.com/9780062795984/messing-with-the-enemy",
+								"display_url": "harpercollins.com/9780062795984/…",
+								"indices": [
+									94,
+									117
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 118168,
+				"friends_count": 771,
+				"listed_count": 1646,
+				"created_at": "Sun Sep 05 20:24:59 +0000 2010",
+				"favourites_count": 4285,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 24701,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/865704982611456000/4gAe172J_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/865704982611456000/4gAe172J_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/187289134/1388672647",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 478,
+			"favorite_count": 983,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Apr 03 11:32:06 +0000 2018",
+			"id": 981132228221702100,
+			"id_str": "981132228221702144",
+			"text": "One dairy farmer shot all 51 of his milking cows and then turned the gun on himself. \n\nThe dairy industry across th… https://t.co/HLEuFseMTO",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HLEuFseMTO",
+						"expanded_url": "https://twitter.com/i/web/status/981132228221702144",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"metadata": {
+				"result_type": "popular",
+				"iso_language_code": "en"
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 807095,
+				"id_str": "807095",
+				"name": "The New York Times",
+				"screen_name": "nytimes",
+				"location": "New York City",
+				"description": "Where the conversation begins. Follow for breaking news, special reports, RTs of our journalists and more. Visit https://t.co/ghL9OoYKMM to share news tips.",
+				"url": "http://t.co/ahvuWqicF9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ahvuWqicF9",
+								"expanded_url": "http://www.nytimes.com/",
+								"display_url": "nytimes.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ghL9OoYKMM",
+								"expanded_url": "http://nyti.ms/2FVHq9v",
+								"display_url": "nyti.ms/2FVHq9v",
+								"indices": [
+									113,
+									136
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 41640755,
+				"friends_count": 879,
+				"listed_count": 194730,
+				"created_at": "Fri Mar 02 20:41:42 +0000 2007",
+				"favourites_count": 16563,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 315185,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1522172276",
+				"profile_link_color": "607696",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 613,
+			"favorite_count": 680,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Apr 03 05:17:03 +0000 2018",
+			"id": 981037842246889500,
+			"id_str": "981037842246889473",
+			"text": "Video footage from #KunduzMassacre\n \nThe Afghan Airforce killed 70+ (figure by New york times) in airstrikes on a m… https://t.co/rFZY5eQxeB",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KunduzMassacre",
+						"indices": [
+							19,
+							34
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rFZY5eQxeB",
+						"expanded_url": "https://twitter.com/i/web/status/981037842246889473",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"metadata": {
+				"result_type": "popular",
+				"iso_language_code": "en"
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2831713327,
+				"id_str": "2831713327",
+				"name": "Asfandyar Bhittani",
+				"screen_name": "BhittaniKhannnn",
+				"location": "په غرونو کې",
+				"description": "Pashtun | Nationalist | God, Country & Chai(sometimes marinda)\n#ThankYouJinnah\n#PakistanZindabadMovement",
+				"url": "https://t.co/Zy7ITOoMQS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Zy7ITOoMQS",
+								"expanded_url": "https://frontierpakistani.wordpress.com",
+								"display_url": "frontierpakistani.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 72288,
+				"friends_count": 58,
+				"listed_count": 132,
+				"created_at": "Thu Sep 25 11:54:18 +0000 2014",
+				"favourites_count": 56797,
+				"utc_offset": 18000,
+				"time_zone": "Islamabad",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 27355,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/981161511199625216/BMtuNwVR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/981161511199625216/BMtuNwVR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2831713327/1522361957",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 244,
+			"favorite_count": 183,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Apr 03 03:59:00 +0000 2018",
+			"id": 981018201814265900,
+			"id_str": "981018201814265856",
+			"text": "Thanks to JW's lawsuits, it's been revealed that DOJ compared Comey to WikiLeaks &amp; even admitted some of the info h… https://t.co/deTHxweL1D",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/deTHxweL1D",
+						"expanded_url": "https://twitter.com/i/web/status/981018201814265856",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"metadata": {
+				"result_type": "popular",
+				"iso_language_code": "en"
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18247062,
+				"id_str": "18247062",
+				"name": "Judicial Watch 🔎",
+				"screen_name": "JudicialWatch",
+				"location": "Washington, DC",
+				"description": "A conservative non-partisan educational foundation promoting transparency, accountability, & integrity in government. Follow us on Instagram: judicialwatch",
+				"url": "https://t.co/JPjqvKy5es",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JPjqvKy5es",
+								"expanded_url": "http://www.judicialwatch.org",
+								"display_url": "judicialwatch.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 739370,
+				"friends_count": 1999,
+				"listed_count": 4310,
+				"created_at": "Fri Dec 19 18:04:57 +0000 2008",
+				"favourites_count": 1385,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 30575,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000013831580/0608d68919323081fdb3ca5c24a9db1a.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000013831580/0608d68919323081fdb3ca5c24a9db1a.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/794591644007993344/pvlIf0w6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/794591644007993344/pvlIf0w6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18247062/1492114697",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "30353B",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 569,
+			"favorite_count": 1113,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Mon Apr 02 15:54:00 +0000 2018",
+			"id": 980835749317656600,
+			"id_str": "980835749317656581",
+			"text": "Because of JW litigation, it's been revealed that DOJ compared Comey to WikiLeaks and even admitted some of the inf… https://t.co/DLzdXvLZG7",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DLzdXvLZG7",
+						"expanded_url": "https://twitter.com/i/web/status/980835749317656581",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"metadata": {
+				"result_type": "popular",
+				"iso_language_code": "en"
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18247062,
+				"id_str": "18247062",
+				"name": "Judicial Watch 🔎",
+				"screen_name": "JudicialWatch",
+				"location": "Washington, DC",
+				"description": "A conservative non-partisan educational foundation promoting transparency, accountability, & integrity in government. Follow us on Instagram: judicialwatch",
+				"url": "https://t.co/JPjqvKy5es",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JPjqvKy5es",
+								"expanded_url": "http://www.judicialwatch.org",
+								"display_url": "judicialwatch.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 739370,
+				"friends_count": 1999,
+				"listed_count": 4310,
+				"created_at": "Fri Dec 19 18:04:57 +0000 2008",
+				"favourites_count": 1385,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 30575,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000013831580/0608d68919323081fdb3ca5c24a9db1a.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000013831580/0608d68919323081fdb3ca5c24a9db1a.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/794591644007993344/pvlIf0w6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/794591644007993344/pvlIf0w6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18247062/1492114697",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "30353B",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 528,
+			"favorite_count": 1038,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Mon Apr 02 16:08:40 +0000 2018",
+			"id": 980839442343751700,
+			"id_str": "980839442343751681",
+			"text": "Congrats to my mom on her new gig at the New York Times. https://t.co/TRV2iaBfkE",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 980839429563605000,
+						"id_str": "980839429563604993",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/DZykQ7TV4AEDcTn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZykQ7TV4AEDcTn.jpg",
+						"url": "https://t.co/TRV2iaBfkE",
+						"display_url": "pic.twitter.com/TRV2iaBfkE",
+						"expanded_url": "https://twitter.com/maggieserota/status/980839442343751681/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 555,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 612,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 612,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 980839429563605000,
+						"id_str": "980839429563604993",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/DZykQ7TV4AEDcTn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZykQ7TV4AEDcTn.jpg",
+						"url": "https://t.co/TRV2iaBfkE",
+						"display_url": "pic.twitter.com/TRV2iaBfkE",
+						"expanded_url": "https://twitter.com/maggieserota/status/980839442343751681/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 555,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 612,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 612,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"metadata": {
+				"result_type": "popular",
+				"iso_language_code": "en"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 88826456,
+				"id_str": "88826456",
+				"name": "Maggie Serota",
+				"screen_name": "maggieserota",
+				"location": "Ridgewood, Queens",
+				"description": "Staff Writer @Spin Bylines: Paper, Glamour, Esquire, Observer, Rolling Stone, Village Voice, Pitchfork, etc. margaret.serota@spin.com",
+				"url": "https://t.co/0HsYPBe4ks",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0HsYPBe4ks",
+								"expanded_url": "https://maggieserota.contently.com/",
+								"display_url": "maggieserota.contently.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20996,
+				"friends_count": 3008,
+				"listed_count": 493,
+				"created_at": "Tue Nov 10 02:10:53 +0000 2009",
+				"favourites_count": 190649,
+				"utc_offset": -28800,
+				"time_zone": "Alaska",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 78372,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/973783194515406849/Xu0vZhN1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/973783194515406849/Xu0vZhN1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/88826456/1428645062",
+				"profile_link_color": "000D99",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "06a7ad558d8a3014",
+				"url": "https://api.twitter.com/1.1/geo/id/06a7ad558d8a3014.json",
+				"place_type": "city",
+				"name": "Cherry Hill Mall",
+				"full_name": "Cherry Hill Mall, NJ",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-75.047395,
+								39.924833
+							],
+							[
+								-74.974961,
+								39.924833
+							],
+							[
+								-74.974961,
+								39.954192
+							],
+							[
+								-75.047395,
+								39.954192
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 249,
+			"favorite_count": 2684,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Apr 03 12:08:55 +0000 2018",
+			"id": 981141495599239200,
+			"id_str": "981141495599239168",
+			"text": "Tu también New York Times, hijo mio, como dijera el César. https://t.co/Rj2MVVIoXu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Rj2MVVIoXu",
+						"expanded_url": "https://mobile.nytimes.com/2018/03/27/magazine/the-fruit-of-global-trade-in-one-fruit-the-avocado.html",
+						"display_url": "mobile.nytimes.com/2018/03/27/mag…",
+						"indices": [
+							59,
+							82
+						]
+					}
+				]
+			},
+			"metadata": {
+				"result_type": "popular",
+				"iso_language_code": "es"
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 49849732,
+				"id_str": "49849732",
+				"name": "Gustavo Petro",
+				"screen_name": "petrogustavo",
+				"location": "ÜT: 4.650541,-74.074043",
+				"description": "Perfil Oficial del dirigente político progresista colombiano Gustavo Petro. Por una Colombia Humana con justicia social y en Paz",
+				"url": "https://t.co/eSYZ33Xa9r",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eSYZ33Xa9r",
+								"expanded_url": "https://gustavopetroblog.wordpress.com",
+								"display_url": "gustavopetroblog.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3025187,
+				"friends_count": 2036,
+				"listed_count": 4490,
+				"created_at": "Tue Jun 23 02:04:11 +0000 2009",
+				"favourites_count": 11973,
+				"utc_offset": -18000,
+				"time_zone": "Bogota",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 102290,
+				"lang": "es",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C71218",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/446661312810975233/-0B1XMji.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/446661312810975233/-0B1XMji.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/962471262747529216/Uo8lOkRJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/962471262747529216/Uo8lOkRJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/49849732/1441665394",
+				"profile_link_color": "09324D",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E8E8CC",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 160,
+			"favorite_count": 411,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "es"
+		},
+		{
+			"created_at": "Tue Apr 03 03:09:40 +0000 2018",
+			"id": 981005788243251200,
+			"id_str": "981005788243251200",
+			"text": "New York Times: \"Erdoğan, vaazler ve yüksek sesli hakaretlerle Türkiye'yi büyülüyor\"\nhttps://t.co/hJCLNzPFfK",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/hJCLNzPFfK",
+						"expanded_url": "https://bbc.in/2H6FgC2",
+						"display_url": "bbc.in/2H6FgC2",
+						"indices": [
+							85,
+							108
+						]
+					}
+				]
+			},
+			"metadata": {
+				"result_type": "popular",
+				"iso_language_code": "tr"
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22475139,
+				"id_str": "22475139",
+				"name": "BBC Türkçe",
+				"screen_name": "bbcturkce",
+				"location": "Londra",
+				"description": "BBC Dünya Servisi Türkçe Yayınları'nın haber hesabı.",
+				"url": "http://t.co/GNGmTbUE5T",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/GNGmTbUE5T",
+								"expanded_url": "http://bbcturkce.com",
+								"display_url": "bbcturkce.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2926617,
+				"friends_count": 45,
+				"listed_count": 3763,
+				"created_at": "Mon Mar 02 11:18:25 +0000 2009",
+				"favourites_count": 95,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 108288,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F7F7F7",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/382491406/twitter_final_bg.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/382491406/twitter_final_bg.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2135291160/turkish_fb_icon_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2135291160/turkish_fb_icon_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22475139/1447154239",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 102,
+			"favorite_count": 112,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		{
+			"created_at": "Mon Apr 02 12:46:28 +0000 2018",
+			"id": 980788555059515400,
+			"id_str": "980788555059515392",
+			"text": "The exonerative tense hits the front page of the New York Times. https://t.co/EyUep03cTx",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EyUep03cTx",
+						"expanded_url": "https://twitter.com/blanksslate/status/980535622342467585?s=21",
+						"display_url": "twitter.com/blanksslate/st…",
+						"indices": [
+							65,
+							88
+						]
+					}
+				]
+			},
+			"metadata": {
+				"result_type": "popular",
+				"iso_language_code": "en"
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15816595,
+				"id_str": "15816595",
+				"name": "Radley Balko",
+				"screen_name": "radleybalko",
+				"location": "Nashville, TN",
+				"description": "Opinion journalist, Washington Post. Author of Rise of the Warrior Cop, and The Cadaver King and the Country Dentist. Honorary Duckmaster (3/24/18).",
+				"url": "https://t.co/VmgMuTHRL5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VmgMuTHRL5",
+								"expanded_url": "https://www.amazon.com/Cadaver-King-Country-Dentist-Injustice/dp/161039691X",
+								"display_url": "amazon.com/Cadaver-King-C…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 68915,
+				"friends_count": 1593,
+				"listed_count": 2523,
+				"created_at": "Tue Aug 12 01:08:06 +0000 2008",
+				"favourites_count": 9974,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 41176,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "745354",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3064879/100_0788.JPG",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3064879/100_0788.JPG",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/488370517116592128/d7ImJcYb_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/488370517116592128/d7ImJcYb_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15816595/1517003956",
+				"profile_link_color": "A0ADB0",
+				"profile_sidebar_border_color": "0E1A1B",
+				"profile_sidebar_fill_color": "6C8BB2",
+				"profile_text_color": "2D2438",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 980535622342467600,
+			"quoted_status_id_str": "980535622342467585",
+			"quoted_status": {
+				"created_at": "Sun Apr 01 20:01:24 +0000 2018",
+				"id": 980535622342467600,
+				"id_str": "980535622342467585",
+				"text": "Bullets, acting on their own agency, inexplicably flew into man's back. https://t.co/rOf7WeshTN",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/rOf7WeshTN",
+							"expanded_url": "https://twitter.com/BrentNYT/status/980063453581926400",
+							"display_url": "twitter.com/BrentNYT/statu…",
+							"indices": [
+								72,
+								95
+							]
+						}
+					]
+				},
+				"metadata": {
+					"result_type": "popular",
+					"iso_language_code": "en"
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 16192218,
+					"id_str": "16192218",
+					"name": "Jonathan Blanks",
+					"screen_name": "BlanksSlate",
+					"location": "Washington, DC",
+					"description": "I write about criminal justice, race, & policing for @CatoInstitute ;  Writer in residence, @FairPunishment. Policy over politics and dogma.",
+					"url": "https://t.co/ouMPBW1hHG",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/ouMPBW1hHG",
+									"expanded_url": "http://www.cato.org/people/jonathan-blanks",
+									"display_url": "cato.org/people/jonatha…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 7148,
+					"friends_count": 1547,
+					"listed_count": 253,
+					"created_at": "Mon Sep 08 21:10:19 +0000 2008",
+					"favourites_count": 12557,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 30295,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "9AE4E8",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/459160861660041216/l0GVij3j.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/459160861660041216/l0GVij3j.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/743449923190919168/Zdo1Lff__normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/743449923190919168/Zdo1Lff__normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/16192218/1488377081",
+					"profile_link_color": "000DFF",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "E0FF92",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": true,
+				"quoted_status_id": 980063453581926400,
+				"quoted_status_id_str": "980063453581926400",
+				"retweet_count": 395,
+				"favorite_count": 984,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 86,
+			"favorite_count": 159,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Mon Apr 02 03:06:35 +0000 2018",
+			"id": 980642622661365800,
+			"id_str": "980642622661365765",
+			"text": "New York Times sides with Israel as it kills Gaza marchers https://t.co/WTJPwKcHPA https://t.co/GSoH6MBiTs",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WTJPwKcHPA",
+						"expanded_url": "http://bit.ly/2pVAjDE",
+						"display_url": "bit.ly/2pVAjDE",
+						"indices": [
+							59,
+							82
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 980642619981160400,
+						"id_str": "980642619981160448",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/DZvxRGeV4AAejWg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZvxRGeV4AAejWg.jpg",
+						"url": "https://t.co/GSoH6MBiTs",
+						"display_url": "pic.twitter.com/GSoH6MBiTs",
+						"expanded_url": "https://twitter.com/intifada/status/980642622661365765/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 800,
+								"h": 533,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 533,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 980642619981160400,
+						"id_str": "980642619981160448",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/DZvxRGeV4AAejWg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZvxRGeV4AAejWg.jpg",
+						"url": "https://t.co/GSoH6MBiTs",
+						"display_url": "pic.twitter.com/GSoH6MBiTs",
+						"expanded_url": "https://twitter.com/intifada/status/980642622661365765/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 800,
+								"h": 533,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 533,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"metadata": {
+				"result_type": "popular",
+				"iso_language_code": "en"
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6721522,
+				"id_str": "6721522",
+				"name": "Electronic Intifada",
+				"screen_name": "intifada",
+				"location": "Palestine",
+				"description": "Palestine’s weapon of mass instruction.",
+				"url": "http://t.co/HyAzop1uEX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/HyAzop1uEX",
+								"expanded_url": "http://electronicintifada.net",
+								"display_url": "electronicintifada.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 108252,
+				"friends_count": 1,
+				"listed_count": 2905,
+				"created_at": "Sun Jun 10 20:26:28 +0000 2007",
+				"favourites_count": 173,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 118190,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CCCCCC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/608132742224568320/x3yrArdT_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/608132742224568320/x3yrArdT_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6721522/1400518273",
+				"profile_link_color": "303030",
+				"profile_sidebar_border_color": "CCCCCC",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 79,
+			"favorite_count": 59,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		}
+	],
+	"search_metadata": {
+		"completed_in": 0.12,
+		"max_id": 0,
+		"max_id_str": "0",
+		"query": "New+York+Times",
+		"count": 15,
+		"since_id": 0,
+		"since_id_str": "0"
+	}
+}

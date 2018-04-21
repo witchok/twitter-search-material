@@ -1,0 +1,45 @@
+<!--<md-icon md-svg-icon="{{$ctrl.selected.avatar}}" class="avatar"></md-icon>-->
+<md-toolbar layout="row" class="md-toolbar-tools" >
+    <md-menu >
+        <md-button class="menu md-icon-button"
+                   aria-label="sort" ng-click="$mdMenu.open($event)">
+          <md-icon md-svg-icon="sort"></md-icon>
+        </md-button>
+        <md-menu-content>
+            <md-menu-item layout="column" class="twits-sort">
+                 <md-button ng-click="$ctrl.sortTwitsByAuthor()" aria-label="By author">
+                   By author
+                 </md-button>
+                 <md-button ng-click="$ctrl.sortTwitsByDate()" aria-label="By date">
+                   By date
+                 </md-button>
+                 <md-button ng-click="$ctrl.sortTwitsByText()" aria-label="By text">
+                   By text
+                 </md-button>
+                </md-menu-item>
+        </md-menu-content>
+    </md-menu>
+    <md-switch ng-model="$ctrl.switchPosition" aria-label="Switch 1" ng-true-value="'normal'" ng-false-value="'reversed'" ng-change="$ctrl.changeSwitch()">
+        Order : {{$ctrl.switchPosition}}
+    </md-switch>
+    
+</md-toolbar>
+  <form name="usersSearchForm">
+  <md-chips ng-model="$ctrl.chipsRequest" name="twitsSearch" readonly="$ctrl.readonly"
+            md-removable="$ctrl.removable" md-max-chips="10" placeholder="Twits search...">
+    <md-chip-template>
+      {{$chip}}
+    </md-chip-template>
+  </md-chips>
+  <md-button ng-click='$ctrl.getTwits()'>Search</md-button>
+</form>
+<!--  -->
+
+<md-list-item class="md-7-line" ng-repeat="twit in $ctrl.twits" ng-click="$ctrl.showUsers({twit:twit})">  
+    <img ng-src="{{twit.user.profile_image_url}}" class="md-avatar" alt="{{$ctrl.selected.name}}" />
+    <div class="md-list-item-text" layout="column">
+        <h3 class="twit-user">{{ twit.user.name }}</h3>
+        <p  class="twit-time">{{ twit.created_at }}</p>
+        <p class="twit-text"> {{ twit.text }}</p>
+    </div>
+</md-list-item>

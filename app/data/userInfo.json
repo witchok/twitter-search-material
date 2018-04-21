@@ -1,0 +1,111 @@
+{
+	"id": 81828490,
+	"id_str": "81828490",
+	"name": "Svyatoslav Vakarchuk",
+	"screen_name": "s_vakarchuk",
+	"location": "Kyiv, UKRAINE",
+	"profile_location": null,
+	"description": "Personal Twitter Account",
+	"url": "https://t.co/cMiT9ZBHV9",
+	"entities": {
+		"url": {
+			"urls": [
+				{
+					"url": "https://t.co/cMiT9ZBHV9",
+					"expanded_url": "https://facebook.com/okeanelzyofficial",
+					"display_url": "facebook.com/okeanelzyoffic…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"description": {
+			"urls": []
+		}
+	},
+	"protected": false,
+	"followers_count": 2099066,
+	"friends_count": 9,
+	"listed_count": 2545,
+	"created_at": "Mon Oct 12 12:19:35 +0000 2009",
+	"favourites_count": 2,
+	"utc_offset": null,
+	"time_zone": null,
+	"geo_enabled": true,
+	"verified": true,
+	"statuses_count": 4605,
+	"lang": "en",
+	"status": {
+		"created_at": "Tue Apr 03 07:34:54 +0000 2018",
+		"id": 981072536166334500,
+		"id_str": "981072536166334465",
+		"text": "@McFaul @FSIStanford No classes were missed while shooting the video! We did it during the weekend!😉",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "McFaul",
+					"name": "Michael McFaul",
+					"id": 454099919,
+					"id_str": "454099919",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "FSIStanford",
+					"name": "FSI Stanford",
+					"id": 221858588,
+					"id_str": "221858588",
+					"indices": [
+						8,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 980925338921218000,
+		"in_reply_to_status_id_str": "980925338921218048",
+		"in_reply_to_user_id": 454099919,
+		"in_reply_to_user_id_str": "454099919",
+		"in_reply_to_screen_name": "McFaul",
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	"contributors_enabled": false,
+	"is_translator": false,
+	"is_translation_enabled": false,
+	"profile_background_color": "030101",
+	"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/49369583/_MG_3386.jpg",
+	"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/49369583/_MG_3386.jpg",
+	"profile_background_tile": false,
+	"profile_image_url": "http://pbs.twimg.com/profile_images/517608977929342976/oEPN0t2J_normal.jpeg",
+	"profile_image_url_https": "https://pbs.twimg.com/profile_images/517608977929342976/oEPN0t2J_normal.jpeg",
+	"profile_link_color": "6E3E28",
+	"profile_sidebar_border_color": "BDA3A2",
+	"profile_sidebar_fill_color": "A8A38A",
+	"profile_text_color": "363536",
+	"profile_use_background_image": true,
+	"has_extended_profile": false,
+	"default_profile": false,
+	"default_profile_image": false,
+	"following": false,
+	"follow_request_sent": false,
+	"notifications": false,
+	"translator_type": "regular"
+}

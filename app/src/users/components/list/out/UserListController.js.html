@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>JSDoc: Source: UserListController.js</title>
+
+    <script src="scripts/prettify/prettify.js"> </script>
+    <script src="scripts/prettify/lang-css.js"> </script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link type="text/css" rel="stylesheet" href="styles/prettify-tomorrow.css">
+    <link type="text/css" rel="stylesheet" href="styles/jsdoc-default.css">
+</head>
+
+<body>
+
+<div id="main">
+
+    <h1 class="page-title">Source: UserListController.js</h1>
+
+    
+
+
+
+    
+    <section>
+        <article>
+            <pre class="prettyprint source linenums"><code>/**
+ * User Details Controller - controll view with users
+ * @constructor
+ */
+
+class UserListController  {
+  /**
+   * Constructor
+   *
+   * @param $http
+   * @param $mdDialog
+   */
+  constructor($http, $mdDialog) {
+    this.$http = $http;
+    this.$mdDialog = $mdDialog;
+    this.readonly = false;
+    this.removable = true;
+    this.chipsRequest = [];
+    this.mainCheckValue = false;
+    this.switchPosition = "normal";
+    this.saved = [];
+  }
+
+  /**
+  * Save users to the array of saved usesrs if checkbox's value == true.
+  */
+  saveUsers(){
+    if(this.users != null){
+      for (let i = 0; i &lt; this.users.length; i++) {
+        if (this.users[i].checked &amp;&amp; !this.isSavedContains(this.users[i])) {    
+          // deep copy of a user
+          let obj = JSON.parse(JSON.stringify(this.users[i]));
+          this.saved.push(obj);
+          this.saved[this.saved.length-1].checked = false;
+          console.log(this.saved[this.saved.length-1].name);
+        }
+      }
+    }
+  }
+
+  /**
+  * Show users from the array of saved usesrs.
+  */
+  showSavedUsers(){
+      this.makeUsers(this.saved);
+  }
+
+  /**
+  * Delete users from the array of saved usesrs if checkbox's value == true.
+  */
+  deleteSavedUsers(){
+    this.saved = this.deleteChecked(this.saved);
+    this.showSavedUsers();
+  }
+
+  /**
+  * Check if saved contains this user
+  * @param {object}user - user to check
+  * @return {boolean} - if user in saved -> true
+  */
+  isSavedContains(user){
+    var flag = false;
+
+    //make checked 'false' for right test of containing
+    user.checked = false;
+    for (let i = 0; i &lt; this.saved.length; i++) {
+      if(JSON.stringify(this.saved[i]) == JSON.stringify(user)){
+        flag = true;
+        break;
+      }
+    }
+    user.checked = this.switchPosition;
+    return flag;
+  }
+  
+
+  /**
+  * Make request for a server to get users using phrases from the chips.
+  */
+  search(){
+    var s = 'Users: '
+    for (let i = 0; i &lt; this.chipsRequest.length; i++) {
+      s += this.chipsRequest[i] + '; ';
+    }
+    alert(s)
+
+  }
+
+
+  /**
+  * Make request for a server to get users using phrases from the chips.
+  */
+  getUsers() {
+    this.$http
+      .get('data/searchUsers.json')
+      .success((data) => {
+        this.makeUsers(data);
+    });
+  }
+
+  
+  /**
+  * Make users equals to data
+  * @param {object}data - data JSON with inforamtion about users
+  */
+  makeUsers(data){
+    this.users = [];
+    for(let i = 0; i &lt; data.length; i++){
+        this.users.push(data[i]);
+        this.users[i].checked = this.mainCheckValue;
+    }
+  }
+  
+  /**
+  * Make users equals to value of deleteChecked(users).
+  */
+  deleteUsers(){
+    this.users = this.deleteChecked(this.users);
+  }
+
+  /**
+  * Delete users from the list if checkbox's value == true.
+  */
+  deleteChecked(list){
+    var newList = [];
+    for (let i = 0; i &lt; list.length; i++) {
+      if (list[i].checked == false){
+        newList.push(list[i]);
+      }
+    }
+    return newList;
+  }
+
+  /**
+  * Function works if checkbox is changed.
+  */
+  checkBoxChanged(){
+    console.log("chenged checkbox: ");
+      
+    /*this.users[this.users.indexOf(user)].selected = true;*/ 
+    /*user.checked = true;*/
+  }
+
+  /**
+  * Make all users checked or opposite if toolbar's checkbox was changed.
+  */
+  checkBoxMain(){
+      for (let i = 0; i &lt; this.users.length; i++) {
+        this.users[i].checked = this.mainCheckValue;
+      }
+  }
+
+  testForMessage(){
+    alert("messagge");
+  }
+
+  /**
+  * Make message to invate checked users
+  * @param ev {Event} - event for message
+  */
+  makeMessage(ev) {
+    var confirm = this.$mdDialog.prompt()
+      .title('Message for users')
+      /*.textContent('')*/
+      .placeholder('Invate')
+      .ariaLabel('Invate')
+      .initialValue('I want to invate you!')
+      .targetEvent(ev)
+      .required(true)
+      .ok('Ok')
+      .cancel('Cancel');
+
+    this.$mdDialog.show(confirm).then(function(result) {
+      $scope.status = 'You decided to name your dog ' + result + '.';
+    }, function() {
+      $scope.status = 'You didn\'t name your dog.';
+    });
+  }
+
+  /**
+  * Change order of the users to opposite.
+  */
+  changeSwitch(){
+    this.users.reverse();
+  }
+  /**
+  * Sort users by name 
+  *   - A-Z if switchPosition = "normal"
+  *   - Z-A if switchPosition = "reversed".
+  */
+  sortUsersByName() {
+    this.users.sort( (a, b) => {
+      if (this.switchPosition == "normal");
+          if (a.name > b.name) {
+              return 1;
+          }
+          if (a.name &lt; b.name) {
+              return -1;
+          }
+      if (this.switchPosition == "reversed"){
+          if (a.name &lt; b.name) {
+              return 1;
+          }
+          if (a.name > b.name) {
+              return -1;
+          }
+      }
+      return 0;
+   });
+  }
+
+  /**
+  * Sort users by count of followers 
+  *   - A-Z if switchPosition = "normal"
+  *   - Z-A if switchPosition = "reversed".
+  */
+  sortUsersByFollowersCount() {
+    this.users.sort( (a, b) => {
+      if (this.switchPosition == "normal");
+          if (a.followers_count > b.followers_count) {
+              return 1;
+          }
+          if (a.followers_count &lt; b.followers_count) {
+              return -1;
+          }
+      if (this.switchPosition == "reversed"){
+          if (a.followers_count &lt; b.followers_count) {
+              return 1;
+          }
+          if (a.followers_count > b.followers_count) {
+              return -1;
+          }
+      }
+      return 0;
+   });
+  }
+}
+
+
+export default UserListController;
+
+</code></pre>
+        </article>
+    </section>
+
+
+
+
+</div>
+
+<nav>
+    <h2><a href="index.html">Home</a></h2><h3>Classes</h3><ul><li><a href="UserListController.html">UserListController</a></li></ul>
+</nav>
+
+<br class="clear">
+
+<footer>
+    Documentation generated by <a href="https://github.com/jsdoc3/jsdoc">JSDoc 3.5.5</a> on Sat Apr 21 2018 16:10:12 GMT+0300 (Финляндия (лето))
+</footer>
+
+<script> prettyPrint(); </script>
+<script src="scripts/linenumber.js"> </script>
+</body>
+</html>
